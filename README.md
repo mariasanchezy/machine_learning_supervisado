@@ -1,2 +1,2 @@
-# machine_learning_supervisado
-Este es mi README
+# Práctica 1
+Este es mi README, prueba :) 
